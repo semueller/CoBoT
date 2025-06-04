@@ -1,0 +1,3 @@
+[submodule "wconv-py"]
+	path = wconv-py
+	url = https://github.com/estadtlaender/wconv-py
